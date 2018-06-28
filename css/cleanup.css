@@ -3,5 +3,5 @@
 
 #wall .tag-1 + #tag-2 {display:none;}
 
-div#wall #tag-2 + #tag-3.slick {display:none;}
+#wall #tag-2 + #tag-3.slick {display:none;}
 
